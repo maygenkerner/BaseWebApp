@@ -1,0 +1,20 @@
+
+body {
+  background-color: #e9967a;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  color: White;
+}
+
+p {
+  font-family: "Lucida Console";
+  font-size: 30px;
+}
+
+#doge-image img {
+  height: 140px;
+  margin-top: 20px;
+}
